@@ -1,5 +1,5 @@
 body{
-  background-image: url(https://media.githubusercontent.com/media/tobiasromero/clock-timer/main/img/snowfall-in-forest.3840x2160.gif); 
+  background-image: url("https://media.githubusercontent.com/media/tobiasromero/clock-timer/main/img/snowfall-in-forest.3840x2160.gif"); 
   background-repeat: no-repeat;
   background-size: cover;
   margin-top: 0;
